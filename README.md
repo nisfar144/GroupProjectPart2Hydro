@@ -1,2 +1,2 @@
 # GroupProjectPart2Hydro
-Hydroelectric power simulation
+GroupProjectPart2Hydro Hydroelectric power simulation
